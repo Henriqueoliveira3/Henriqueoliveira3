@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an PHP Dev<br>🌱 I’m currently learning .NET FRAMEWORK
+🔭 I’m currently working as an PHP Dev<br>🌱 learning about Laravel
 
 
 # 💻 Tech Stack:
