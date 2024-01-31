@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an PHP Dev<br>🌱 learning about Laravel
+🔭 I’m currently working as an PHP Dev
 
 
 # 💻 Tech Stack:
@@ -11,8 +11,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
